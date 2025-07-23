@@ -7,7 +7,7 @@
 
 ## 🧠 About Me
 
-Hello, I'm Jonathan Treminio - a Data Analyst and graduate student @ UT Dallas with experience in AI/ML-driven Analytics which include pricing optimization, time-series forecasting, and regression modeling.
+Hello, my name is Jonathan Treminio! I'm a Data Analyst and Graduate Student @ UT Dallas with experience in AI/ML-driven Analytics which include pricing optimization, time-series forecasting, and regression modeling.
 ---
 
 ## 🧰 My Tech Stack
