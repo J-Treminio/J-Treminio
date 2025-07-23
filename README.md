@@ -43,8 +43,8 @@ Hello, my name is Jonathan Treminio! I'm a Data Analyst and Graduate Student @ U
 
 ## 🧾 Certifications
 
-- 🎓 AWS Certified Machine Learning - Specialty  
-- 🎓 AWS Certified Machine Learning Engineer - Associate  
+- 🎓 AWS Certified Machine Learning Specialty  
+- 🎓 AWS Certified Machine Learning Engineer Associate  
 - 🎓 AWS Certified Artificial Intelligence Practitioner  
 
 ---
